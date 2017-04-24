@@ -9,10 +9,10 @@ The second line contains n space-separated integers (we'll refer to the i<sup>th
 
 ## Constraints
 
-1 <= n <= 10<sup>5</sup>
-1 <= k <= 100
-1 <= a<sub>i</sub> <= 10<sup>9</sup>
-All of the given numbers are distinct.
+- 1 <= n <= 10<sup>5</sup>
+- 1 <= k <= 100
+- 1 <= a<sub>i</sub> <= 10<sup>9</sup>
+- All of the given numbers are distinct.
 
 ## Output Format
 
